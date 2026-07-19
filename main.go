@@ -1,7 +1,5 @@
-package main;
+package main
 
-import "fmt"
-
-func main(){
-	fmt.Println("Hellow world")
+func StringSayHello() string {
+	return "say hello"
 }
